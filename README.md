@@ -66,7 +66,7 @@ The robot:
 - Moves toward it
 - Pushes it forward like a soccer player
 
-![Soccer Bot Output](robot.jpg)
+![Soccer Bot Output](robot.jpeg)
 
 ---
 
