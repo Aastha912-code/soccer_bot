@@ -84,6 +84,7 @@ The robot:
 
 **Aastha Agarwal**  
 **Mayank**
+
 Project developed for robotics and embedded systems learning.
 
 ---
